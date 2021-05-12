@@ -10,6 +10,8 @@ The **client-side application** which can be accessible to anyone can be used fo
 
 The **server-side application** which can be accessible to the cafe team is used to confirm the table reservations, add a new delicacy to the menu and to read from the contact-form.
 
+I have used two different free to use website themes to configure the website in Laravel PHP. 
+
 ## Screenshots of the Application
 
 ![client-side Home page](/screenshots/home_page.png)
