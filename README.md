@@ -15,11 +15,19 @@ I have used two different free to use website themes to configure the website in
 ## Screenshots of the Application
 
 ![client-side Home page](/screenshots/home_page.png)
+
 ![client-side Table Booking](/screenshots/cafe_tablebooking.png)
+
 ![client-side Menu Items](/screenshots/menu_items.png)
+
 ![client-side Cafe Location](/screenshots/cafe_location.png)
+
 ![admin-side Home page](/screenshots/cafe_adminpanel.png)
+
 ![admin-side Table Reservation List](/screenshots/cafe_reservations.png)
+
 ![admin-side Add a new Menu](/screenshots/cafe_addmenu.png)
+
 ![admin-side Menu List](/screenshots/cafe_menu_list.png)
+
 ![mailtrap_config](/screenshots/cafe_admin_maintrap_config.png)
